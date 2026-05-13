@@ -1,0 +1,2 @@
+const NOTION_TOKEN = process.env.REACT_APP_NOTION_TOKEN;
+const DATABASE_ID  = process.env.REACT_APP_DATABASE_ID;
